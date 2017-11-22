@@ -5,7 +5,7 @@ import codecs
 import re
 import sys
 import time
-pagea=365
+pagea=1
 pages=365
 
 for p in range(pagea,pages+1):
